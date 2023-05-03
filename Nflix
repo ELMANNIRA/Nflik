@@ -1,6 +1,9 @@
 {
-    "NetworkAds":"applovin",
-     "newAppStatus":"off",
-     "appPackage":"com.kiloo.subwaysurf",
-  
+    "apiUrl" : "https://admin.gomovies.ma/api/",
+
+	"pushUpdate" : "off",
+
+	"newPackage" : "",
+	"NetworkAds" : "applovin"
+
 }
